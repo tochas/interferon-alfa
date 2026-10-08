@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "Museo de Proteínas · Interferón alfa",
+  "short_name": "Museo IFN",
+  "description": "Explora la estructura y señalización del interferón alfa-2a humano",
+  "lang": "es",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#180e24",
+  "theme_color": "#180e24",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
